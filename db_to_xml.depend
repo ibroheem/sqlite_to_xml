@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1427444584 source:/home/ibroheem/usr/devs/cpp/utils/db_to_xml/main.cpp
+	<QApplication>
+	<QVariant>
+	<QMainWindow>
+	<QTextEdit>
+	<QMenuBar>
+	<QtSql/QSqlDatabase>
+	<QtSql/QSqlError>
+	<QtSql/QSqlQuery>
+	<QtSql/QSqlQueryModel>
+	<QtSql/QSqlRecord>
+	<QtSql/QSqlField>
+	<pugi/pugixml.hpp>
+	"main.h"
+
+1427444615 /home/ibroheem/usr/devs/cpp/utils/db_to_xml/main.h
+	"mib/Qt/error_checking.h"
+	"operations.h"
+	"mib/Qt/string_operations.h"
+	"mib/io.h"
+
+1427391951 /home/ibroheem/usr/devs/cpp/utils/db_to_xml/operations.h
+	<mib/macros.h>
+	<mib/typedefs.h>
+
+1427841282 source:/home/ibroheem/usr/devs/cpp/utils/db_to_xml/converter.cpp
+	"converter.h"
+	"mib/algorithm.h"
+
+1430519229 /home/ibroheem/usr/devs/cpp/utils/db_to_xml/converter.h
+	<pugi/pugixml.hpp>
+	<string>
+	<QtSql/QSqlDatabase>
+	<QtSql/QSqlError>
+	<QtSql/QSqlQuery>
+	<QtSql/QSqlQueryModel>
+	<QtSql/QSqlRecord>
+	<QtSql/QSqlField>
+	<QMessageBox>
+	<mib/io.h>
+	<mib/string_operations.h>
+	<mib/pugi/operations.h>
+	<soci/soci.h>
+	<soci/soci-sqlite3.h>
+
+1438909700 source:/media/ibroheem/1BE7CD124123146F/usr/devs/cpp/utils/db_to_xml/converter.cpp
+	"converter.h"
+	"mib/algorithm.h"
+
+1438909691 /media/ibroheem/1BE7CD124123146F/usr/devs/cpp/utils/db_to_xml/converter.h
+	<pugi/pugixml.hpp>
+	<string>
+	<QtSql/QSqlDatabase>
+	<QtSql/QSqlError>
+	<QtSql/QSqlQuery>
+	<QtSql/QSqlQueryModel>
+	<QtSql/QSqlRecord>
+	<QtSql/QSqlField>
+	<QMessageBox>
+	<mib/io.h>
+	<mib/string_operations.h>
+	<mib/pugi/operations.h>
+	<soci/soci.h>
+	<soci/soci-sqlite3.h>
+
+1427444584 source:/media/ibroheem/1BE7CD124123146F/usr/devs/cpp/utils/db_to_xml/main.cpp
+	<QApplication>
+	<QVariant>
+	<QMainWindow>
+	<QTextEdit>
+	<QMenuBar>
+	<QtSql/QSqlDatabase>
+	<QtSql/QSqlError>
+	<QtSql/QSqlQuery>
+	<QtSql/QSqlQueryModel>
+	<QtSql/QSqlRecord>
+	<QtSql/QSqlField>
+	<pugi/pugixml.hpp>
+	"main.h"
+
+1443641252 /media/ibroheem/1BE7CD124123146F/usr/devs/cpp/utils/db_to_xml/main.h
+	"mib/Qt/error_checking.h"
+	"operations.h"
+	"mib/Qt/string_operations.h"
+	"mib/io.h"
+
+1443640392 /media/ibroheem/1BE7CD124123146F/usr/devs/cpp/utils/db_to_xml/operations.h
+	<mib/macros.h>
+	<mib/typedefs.h>
+
+1443641052 source:/media/ibroheem/1BE7CD124123146F/usr/devs/cpp/utils/db_to_xml/console.cpp
+	<QApplication>
+	<QVariant>
+	<QtSql/QSqlDatabase>
+	<QtSql/QSqlError>
+	<QtSql/QSqlQuery>
+	<QtSql/QSqlQueryModel>
+	<QtSql/QSqlRecord>
+	<QtSql/QSqlField>
+	<pugi/pugixml.hpp>
+	"main.h"
+
+1438909700 source:/media/60128FC5128F9EA2/usr/devs/cpp/utils/db_to_xml/converter.cpp
+	"converter.h"
+	"mib/algorithm.h"
+
+1438909691 /media/60128FC5128F9EA2/usr/devs/cpp/utils/db_to_xml/converter.h
+	<pugi/pugixml.hpp>
+	<string>
+	<QtSql/QSqlDatabase>
+	<QtSql/QSqlError>
+	<QtSql/QSqlQuery>
+	<QtSql/QSqlQueryModel>
+	<QtSql/QSqlRecord>
+	<QtSql/QSqlField>
+	<QMessageBox>
+	<mib/io.h>
+	<mib/string_operations.h>
+	<mib/pugi/operations.h>
+	<soci/soci.h>
+	<soci/soci-sqlite3.h>
+
